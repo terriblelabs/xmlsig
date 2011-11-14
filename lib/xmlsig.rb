@@ -1,0 +1,1 @@
+require 'xmlsig/xmlsig'
