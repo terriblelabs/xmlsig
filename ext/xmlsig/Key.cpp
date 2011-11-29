@@ -16,6 +16,7 @@
  */
 #include <iostream>
 #include <string>
+#include <cstring>
 #include <xmlsec/openssl/app.h>
 #include <xmlsec/keysdata.h>
 #include <xmlsec/keys.h>

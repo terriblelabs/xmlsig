@@ -23,6 +23,7 @@
 #include <xmlsec/openssl/evp.h>
 #include <xmlsec/xmlsec.h>
 #include <xmlsec/errors.h>
+#include <cstring>
 #include <iostream>
 #include "BioWrap.h"
 

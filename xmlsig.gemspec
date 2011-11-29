@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.email    = ['joe@terriblelabs.com']
   s.homepage = 'http://github.com/terriblelabs/xmlsig'
 
-  s.version = '0.0.1'
-  s.date = '2011-11-11'
+  s.version = '0.0.2'
+  s.date = '2011-11-29'
 
   s.extensions    = ["ext/xmlsig/extconf.rb"]
   s.require_paths = ["ext", "lib"]
